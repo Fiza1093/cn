@@ -1,4 +1,3 @@
-server.py
 import socket
 
 # Create a TCP socket
